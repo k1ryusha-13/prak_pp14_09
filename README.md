@@ -10,8 +10,8 @@
     .value { font-size: 18px; font-weight: bold; }
   </style>
 
-  <text x="600" y="55" text-anchor="middle" font-size="30" font-weight="bold">Время суммирования массива при разном числе потоков</text>
-  <text x="600" y="85" text-anchor="middle" font-size="18">Размер массива: 1 000 000 000 элементов</text>
+  <text x="600" y="55" text-anchor="middle" font-size="30" font-weight="bold">
+  <text x="600" y="85" text-anchor="middle" font-size="18">
 
   <line class="axis" x1="130" y1="610" x2="1130" y2="610"/>
   <line class="axis" x1="130" y1="120" x2="130" y2="610"/>
@@ -46,6 +46,6 @@
   <text x="825" y="638" text-anchor="middle" font-size="18">8</text>
   <text x="1015" y="638" text-anchor="middle" font-size="18">16</text>
 
-  <text x="630" y="686" text-anchor="middle" font-size="20">Количество потоков</text>
-  <text x="35" y="365" text-anchor="middle" font-size="20" transform="rotate(-90 35 365)">Время вычисления, мс</text>
+  <text x="630" y="686" text-anchor="middle" font-size="20">
+  <text x="35" y="365" text-anchor="middle" font-size="20" transform="rotate(-90 35 365)">
 </svg>
